@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoddingStudy</string>
+    <string name="button1">+</string>
+    <string name="button2">←</string>
+    <string name="button3">→</string>
+    <string name="button4">①</string>
+    <string name="button5">②</string>
+    <string name="button6">③</string>
+    <string name="button7">④</string>
+    <string name="button8">⑤</string>
+    <string name="button9">⑥</string>
+    <string name="button10">⑦</string>
+    <string name="button11">⑧</string>
+    <string name="button12">⑨</string>
+    <string name="button13">⑩</string>
+</resources>
